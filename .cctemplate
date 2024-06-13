@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "code/backend",
+            "name": "Python Flask app",
+            "description": "A Python Flask app."
+        },
+        {
+            "path": "docs",
+            "name": "Clean Code and Ports-and-Adapters",
+        },
+    ]
+}
