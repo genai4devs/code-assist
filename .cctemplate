@@ -1,16 +1,18 @@
 {
-    "metadata": {
-        "version": "1"
+  "metadata": {
+    "version": "1"
+  },
+  "name": "cloud4devs Sample Repository",
+  "templates": [
+    {
+      "path": "code/backend",
+      "name": "Python Flask app",
+      "description": "A Python Flask app."
     },
-    "templates": [
-        {
-            "path": "code/backend",
-            "name": "Python Flask app",
-            "description": "A Python Flask app."
-        },
-        {
-            "path": "docs",
-            "name": "Clean Code and Ports-and-Adapters",
-        },
-    ]
+    {
+      "path": "docs",
+      "name": "Clean Code and Ports-and-Adapters",
+      "description": "development guidelines"
+    }
+  ]
 }
